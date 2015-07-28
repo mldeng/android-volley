@@ -52,7 +52,7 @@ compile 'com.mcxiaoke.volley:library:1.0.18-SNAPSHOT'
     * merge upstream, process response bodies only when present
     * tweak getCacheKey(), using method and original url, fix #67 #78
     * add RedirectError, wrong exception for http 301 and 302, fix #51
-    * make make NetworkResponse Serializable, fix #53
+    * make NetworkResponse Serializable, fix #53
     * create NetworkError using IOException, not using null response
 
 * **1.0.17 2015.07.13**
